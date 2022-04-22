@@ -73,7 +73,7 @@
 
             <div class="greet" id="greet"></div>
 
-                <div class="date" id="date">Sunny</div>
+                <div class="date" id="date"></div>
                 <div class="clock">
                     <div class="time" id="hour"></div>
                     <div class="colon">:</div>
