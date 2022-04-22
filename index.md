@@ -33,6 +33,7 @@
            
         .greet{
             font-size: 3em;
+            font-family: Helvetica;
         }
 
         .date {
